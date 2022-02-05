@@ -2,10 +2,9 @@
   "theme_color": "#60a5fb",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
   "start_url": ".",
-  "name": "WebFormulator Admin",
-  "short_name": "Admin Dashboard for Web Formulator",
+  "name": "Admin Dashboard for Web Formulator",
+  "short_name": "WebFormulator Admin",
   "description": "A Progressive Web Application to perform/manage all the Administrative Tasks.",
   "icons": [
     {
